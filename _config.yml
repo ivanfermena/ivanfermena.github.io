@@ -10,7 +10,7 @@ blog:
                                this should contain a proper description
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/cloud-digital.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
@@ -31,10 +31,8 @@ author:
   mail                      : ivanfermena@gmail.com # change to your e-mail address
   twitter                   : ivanf3rmena
   github                    : ivanfermena
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  linkedin                  : ivanfermena
+  disqus                    : fermena # your disqus site name
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
